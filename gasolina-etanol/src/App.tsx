@@ -61,7 +61,6 @@ function App() {
           <input
             className="input"
             type="number"
-            placeholder="4.90"
             min="1"
             step="0.01"
             required
@@ -73,7 +72,6 @@ function App() {
           <input
             className="input"
             type="number"
-            placeholder="4.90"
             min="1"
             step="0.01"
             required
